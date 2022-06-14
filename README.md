@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @soumyasankar99
-- 👀 I’m interested in ... python
-- 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ... various data science project
-- 📫 How to reach me ... soumyasankar99@gmail.com
+- 👋 Hi, am @soumyasankar99
+- 👀 I’m interested in ... data
+- 🌱 I’m currently learning ...data science with python
+- 💞️ I’m open to any  collaborations in ... various data science projects
+- 📫 Feel free to reach out to me ... soumyasankar99@gmail.com
 
 
 <!---
