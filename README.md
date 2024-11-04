@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer
 -------------
 
-After finishing my master's in mathematics, I dove into coding and have been at it for nearly two years now. Data engineering quickly became my primary focus; it felt like the perfect mix of challenging and impactful work. Building pipelines, designing workflows, and optimizing data systems to drive analytics—it all resonates with my love for creating efficient, data-driven solutions. But my interests don’t stop there. I’m also drawn to computer vision, ML engineering, and generative AI. For me, these areas are where the math and engineering sides of my brain can really come together, pushing the boundaries of what data can do. Whether it’s exploring how vision models understand the world, tackling machine learning challenges, or diving into generative AI, I’m excited by the potential to merge data engineering with advanced AI in meaningful ways.
+After finishing my master's in mathematics, I dove into coding and have been at it for nearly two years now. Data engineering quickly became my primary focus; it felt like the perfect mix of challenging and impactful work. Building pipelines, designing workflows, and optimizing data systems to drive analytics—it all resonates with my love for creating efficient, data-driven solutions.
+
+But my interests don’t stop there. I’m also drawn to computer vision, ML engineering, and generative AI. For me, these areas are where the math and engineering sides of my brain can really come together, pushing the boundaries of what data can do. Whether it’s exploring how vision models understand the world, tackling machine learning challenges, or diving into generative AI, I’m excited by the potential to merge data engineering with advanced AI in meaningful ways.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/soumyasankar99/)
